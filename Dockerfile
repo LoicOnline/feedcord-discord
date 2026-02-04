@@ -1,1 +1,1 @@
-FROM ghcr.io/qolors/feedcord:latest
+FROM qolors/feedcord:latest
